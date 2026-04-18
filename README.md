@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Kayra 👋
 
-<!--
-**KayraBulbul/KayraBulbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student (transitioning to Computer Science) at RMIT → Aspiring data/software engineer
 
-Here are some ideas to get you started:
+I like building things that work, understanding why they work, and occasionally breaking my linux setup in the process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## what i'm working on
+
+- 🏗️  A full-stack SPA in **React / TypeScript** for uni
+- 📊  Sharpening algorithms & data engineering fundamentals
+- 🌱  Exploring backend dev with **Node.js / Express / TypeORM**
+
+---
+
+## tech
+
+**languages**
+`Python` `TypeScript` `JavaScript` `Java` `C` `SQL` `R`
+
+**tools & frameworks**
+`React` `Node.js` `Express` `TypeORM` `MSSQL` `Pandas` `Shiny`
+
+**environment**
+`Arch Linux` `Neovim` `Hyprland` `tmux` `zsh`
+
+---
+
+## projects
+
+| project | stack | about |
+|---|---|---|
+| [NSW Crime RAG Chatbot](#) | Python, RAG | conversational interface over crime dataset |
+| [CPI Dashboard](#) | R, Shiny | interactive inflation explorer |
+| [House Price Prediction](#) | Python, ML | regression model on property data |
+| [Maze Solver](#) | Python, tkinter | visual pathfinding demo |
+| [Asteroids Clone](#) | Python | arcade-style game |
+
+---
+
+## currently learning
+
+- Data engineering patterns & pipeline design
+- TypeScript generics & advanced React patterns
+- Graph algorithms & asymptotic analysis
+
+---
+
+*Melbourne, AUS · Open to internships*
