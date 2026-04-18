@@ -31,11 +31,11 @@ I like building things that work, understanding why they work, and occasionally 
 
 | project | stack | about |
 |---|---|---|
-| [NSW Crime RAG Chatbot](#) | Python, RAG | conversational interface over crime dataset |
-| [CPI Dashboard](#) | R, Shiny | interactive inflation explorer |
-| [House Price Prediction](#) | Python, ML | regression model on property data |
-| [Maze Solver](#) | Python, tkinter | visual pathfinding demo |
-| [Asteroids Clone](#) | Python | arcade-style game |
+| [NSW Crime RAG Chatbot](https://github.com/KayraBulbul/NSW-Crime-RAG-System) | Python, RAG | Conversational interface over crime dataset |
+| [SQL Data Warehouse](https://github.com/KayraBulbul/sql-data-warehouse) | SQL, MS SQL Server | Medallion architecture data warehouse |
+| [House Price Prediction](https://github.com/KayraBulbul/house-price-prediction) | Python, ML | Regression model on property data |
+| [Maze Solver](https://github.com/KayraBulbul/maze-solver) | Python, tkinter | Visual pathfinding demo |
+| [Asteroids Clone](https://github.com/KayraBulbul/asteroid-game) | Python | Arcade-style game |
 
 ---
 
