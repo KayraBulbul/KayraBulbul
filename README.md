@@ -6,7 +6,7 @@ I like building things that work, understanding why they work, and occasionally 
 
 ---
 
-## what i'm working on
+## What i'm working on
 
 - 🏗️  A full-stack SPA in **React / TypeScript** for uni
 - 📊  Sharpening algorithms & data engineering fundamentals
@@ -14,22 +14,22 @@ I like building things that work, understanding why they work, and occasionally 
 
 ---
 
-## tech
+## Tech
 
-**languages**
+**Languages**
 `Python` `TypeScript` `JavaScript` `Java` `C` `SQL` `R`
 
-**tools & frameworks**
+**Tools & Frameworks**
 `React` `Node.js` `Express` `TypeORM` `MSSQL` `Pandas` `Shiny`
 
-**environment**
+**Environment**
 `Arch Linux` `Neovim` `Hyprland` `tmux` `zsh`
 
 ---
 
-## projects
+## Projects
 
-| project | stack | about |
+| Project | Stack | About |
 |---|---|---|
 | [NSW Crime RAG Chatbot](https://github.com/KayraBulbul/NSW-Crime-RAG-System) | Python, RAG | Conversational interface over crime dataset |
 | [SQL Data Warehouse](https://github.com/KayraBulbul/sql-data-warehouse) | SQL, MS SQL Server | Medallion architecture data warehouse |
@@ -39,7 +39,7 @@ I like building things that work, understanding why they work, and occasionally 
 
 ---
 
-## currently learning
+## Currently learning
 
 - Data engineering patterns & pipeline design
 - TypeScript generics & advanced React patterns
