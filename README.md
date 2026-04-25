@@ -5,6 +5,9 @@ Data Science student (transitioning to Computer Science) at RMIT → Aspiring da
 I like building things that work, understanding why they work, and occasionally breaking my linux setup in the process.
 
 ---
+## My portfolio website
+[kayrabulbul.dev](https://kayrabulbul.dev)
+---
 
 ## What i'm working on
 
