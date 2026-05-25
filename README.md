@@ -6,9 +6,9 @@ I like building things that work, understanding why they work, and occasionally 
 
 ## What i'm working on
 
-- 🏗️  A full-stack SPA in **React / TypeScript** for uni
-- 📊  Sharpening algorithms & data engineering fundamentals
-- 🌱  Exploring backend dev with **Node.js / Express / TypeORM**
+- A full-stack SPA in **React / TypeScript** for uni
+- Sharpening algorithms & data engineering fundamentals
+- Exploring backend dev with **Node.js / Express / TypeORM**
 
 ---
 
