@@ -1,4 +1,4 @@
-# Hi, I'm Kayra 👋
+# Hi, I'm Kayra
 
 Data Science student (transitioning to Computer Science) at RMIT → Aspiring data/software engineer
 
