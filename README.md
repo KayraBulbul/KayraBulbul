@@ -43,6 +43,10 @@ I like building things that work, understanding why they work, and occasionally 
 - TypeScript generics & advanced React patterns
 - Graph algorithms & asymptotic analysis
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/abf07fed-4d59-4b68-bf18-79487ae0341f/thumbnail" >
+</p>
+
 ---
 
 *Melbourne, AUS · Open to internships*
