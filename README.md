@@ -4,18 +4,19 @@ Data Science student (transitioning to Computer Science) at RMIT → Aspiring da
 
 I like building things that work, understanding why they work, and occasionally breaking my linux setup in the process.
 
+More about me here: [kayrabulbul.dev](https://kayrabulbul.dev)
+
 ## What i'm working on
 
-- A full-stack SPA in **React / TypeScript** for uni
-- Sharpening algorithms & data engineering fundamentals
-- Exploring backend dev with **Node.js / Express / TypeORM**
+Nothing specifically at the moment.
+You can find out more through devlogs I post here: [devlogs](https://kayrabulbul.dev/devlog)
 
 ---
 
 ## Tech
 
 **Languages**
-`Python` `TypeScript` `JavaScript` `Java` `C` `SQL` `R`
+`Python` `TypeScript` `JavaScript` `Java` `C` `SQL` `R` `Go`
 
 **Tools & Frameworks**
 `React` `Node.js` `Express` `TypeORM` `MSSQL` `Pandas` `Shiny`
@@ -40,8 +41,8 @@ I like building things that work, understanding why they work, and occasionally 
 ## Currently learning
 
 - Data engineering patterns & pipeline design
-- TypeScript generics & advanced React patterns
-- Graph algorithms & asymptotic analysis
+- Golang then Odin
+- 
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/abf07fed-4d59-4b68-bf18-79487ae0341f/thumbnail" >
