@@ -9,6 +9,7 @@ More about me here: [kayrabulbul.dev](https://kayrabulbul.dev)
 ## What i'm working on
 
 Nothing specifically at the moment.
+
 You can find out more through devlogs I post here: [devlogs](https://kayrabulbul.dev/devlog)
 
 ---
@@ -41,8 +42,8 @@ You can find out more through devlogs I post here: [devlogs](https://kayrabulbul
 ## Currently learning
 
 - Data engineering patterns & pipeline design
-- Golang then Odin
-- 
+- Go then planning to learn Odin
+- Backend systems design
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/abf07fed-4d59-4b68-bf18-79487ae0341f/thumbnail" >
