@@ -48,7 +48,8 @@ You can find out more through devlogs I post here: [devlogs](https://kayrabulbul
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/abf07fed-4d59-4b68-bf18-79487ae0341f/thumbnail" >
 </p>
-I do a lot of my learning on boot.dev [here](https://www.boot.dev/u/kayrabulbul)
+
+I do a lot of my learning on boot.dev, you can find my porfolio for that [here](https://www.boot.dev/u/kayrabulbul)
 
 ---
 
