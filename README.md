@@ -1,6 +1,6 @@
 # Hi, I'm Kayra
 
-Data Science student (transitioning to Computer Science) at RMIT → Aspiring data/software engineer
+Computer Science student at RMIT → Aspiring data/software engineer
 
 I like building things that work, understanding why they work, and occasionally breaking my linux setup in the process.
 
