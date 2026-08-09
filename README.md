@@ -9,7 +9,7 @@ More about me here: [kayrabulbul.dev](https://kayrabulbul.dev)
 ## Tech
 
 **Languages**
-`Python` `TypeScript` `JavaScript` `Java` `C` `SQL` `R` `Go`
+`Python` `TypeScript` `JavaScript` `Java` `C` `C++` `SQL` `Go`
 
 **Tools & Frameworks**
 `React` `Node.js` `Express` `TypeORM` `MSSQL` `Pandas` `Shiny`
